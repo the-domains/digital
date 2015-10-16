@@ -2,6 +2,7 @@ name: Digital
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.73066
+title: null
 cta:
   domain: null
   bucket: null
@@ -27,5 +28,5 @@ color:
   rhythmicContrast: 0.5
 purpose:
   - name: awareness
-    item: null
+    item: b9843d4f-b96b-49cf-830e-68eb047a79e7
     url: null
